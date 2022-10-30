@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/sol-admin-db",
+    "public": "build/index-html",
     "ignore": [
       "firebase.json",
       "**/.*",
