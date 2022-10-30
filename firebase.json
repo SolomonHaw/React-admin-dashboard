@@ -1,16 +1,10 @@
 {
   "hosting": {
-    "public": "build/index-html",
+    "public": "dist/sol-admin-db",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
     ]
   }
 }
